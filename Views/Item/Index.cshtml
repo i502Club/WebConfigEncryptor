@@ -1,0 +1,6 @@
+﻿<div><h4>Current Status:</h4> @ViewBag.msgToUser</div>
+<br />
+<br />
+<div id="WebConfigEncryptor-@Dnn.ModuleContext.ModuleId">
+    <input @if (!ViewBag.isSuperUser) { <text> disabled</text>} type="submit" id="btnToggleEncryption" name="btnToggleEncryption" value="@ViewBag.operationType" />
+</div>

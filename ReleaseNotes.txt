@@ -1,0 +1,18 @@
+﻿<h3>WebConfigEncryptor</h3>
+<p class="Contributor">
+	i502.club <br />
+	<a href="mailto:info@i502.club">info@i502.club</a><br />
+	<a href=https://www.i502.club/>https://www.i502.club/</a><br />
+</p>
+<hr/>
+<div class="License">
+	<h3>About WebConfigEncryptor</h3>
+	<p class="Owner">
+		<b>Version 1.0.0</b><br /><br />
+	</p>
+	<p>WebConfigEncryptor lets a host user encrypt/decrypt the web.config data base connectionStrings section.</p><br />
+    <h4>Version 1.0.0</h4>
+    <ul>
+        <li>Initial Release</li>
+    </ul>
+</div>
