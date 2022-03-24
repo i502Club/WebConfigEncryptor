@@ -24,6 +24,8 @@ namespace i502Club.Modules.WebConfigEncryptor.Controllers
     {
         private readonly IEventLogService _eventLogService;
         private static readonly string _logName = "WebConfigEncyrptor";
+
+        public ItemController() { }
         public ItemController(IEventLogService eventLogService)
         {
             _eventLogService = eventLogService;
