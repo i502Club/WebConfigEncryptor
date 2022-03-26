@@ -61,7 +61,7 @@ your DNN db connection string on any server.
 
 ---
 
-### Screeshot
+### Screenshot
 
 ![WebConfigEncryptor screenshot](assets/images/screenshot.png)
 
