@@ -2,7 +2,7 @@
 	<h3>License</h3>
 	<p class="Owner">
 		i502.club  <a href=https://www.i502.club/>https://www.i502.club/</a></br>
-		Copyright (c) 2022</br>	
+		Copyright (c) 2023</br>	
 		by i502.club</br>
 	</p>
     <p>

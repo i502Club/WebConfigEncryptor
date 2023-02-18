@@ -8,10 +8,15 @@
 <div class="License">
 	<h3>About WebConfigEncryptor</h3>
 	<p class="Owner">
-		<b>Version 1.0.0</b><br /><br />
+		<b>Version 1.0.1</b><br /><br />
 	</p>
 	<p>WebConfigEncryptor lets a host user encrypt/decrypt the web.config data base connectionStrings section.</p><br />
-    <h4>Version 1.0.0</h4>
+    <h4>Version 1.0.1</h4>
+    <ul>
+        <li>Update Dnn package refs to 9.11.0</li>
+    </ul>
+	<hr />
+	<h4>Version 1.0.0</h4>
     <ul>
         <li>Initial Release</li>
     </ul>

@@ -1,6 +1,6 @@
 <dotnetnuke type="Package" version="5.0">
 	<packages>
-		<package name="WebConfigEncryptor" type="Module" version="1.0.0">
+		<package name="WebConfigEncryptor" type="Module" version="1.0.1">
 			<friendlyName>WebConfigEncryptor</friendlyName>
 			<description>WebConfigEncryptor</description>
 			<iconFile>DesktopModules/MVC/WebConfigEncryptor/assets/images/icon_extension.png</iconFile>
